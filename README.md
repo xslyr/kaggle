@@ -1,2 +1,3 @@
 # kaggle
-apenas treinando
+
+just training/kiding some techniques
