@@ -1,3 +1,3 @@
 # kaggle
 
-just training/kiding some techniques
+just training some learnings
